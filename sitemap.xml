@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blackmint.agency/</loc>
+    <loc>https://black-mint.net/</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://blackmint.agency/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://blackmint.agency/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackmint.agency/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://black-mint.net/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://black-mint.net/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://black-mint.net/" />
   </url>
   <url>
-    <loc>https://blackmint.agency/en/</loc>
+    <loc>https://black-mint.net/en/</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://blackmint.agency/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://blackmint.agency/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackmint.agency/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://black-mint.net/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://black-mint.net/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://black-mint.net/" />
   </url>
   <url>
-    <loc>https://blackmint.agency/privacy.html</loc>
+    <loc>https://black-mint.net/privacy.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://blackmint.agency/terms.html</loc>
+    <loc>https://black-mint.net/terms.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://blackmint.agency/cookies.html</loc>
+    <loc>https://black-mint.net/cookies.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://blackmint.agency/en/privacy.html</loc>
+    <loc>https://black-mint.net/en/privacy.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://blackmint.agency/en/terms.html</loc>
+    <loc>https://black-mint.net/en/terms.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://blackmint.agency/en/cookies.html</loc>
+    <loc>https://black-mint.net/en/cookies.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

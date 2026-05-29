@@ -6,9 +6,9 @@ Black Mint is a performance marketing and AI automation company for small and me
 
 ## Core Pages
 
-- Ukrainian homepage: https://blackmint.agency/
-- English homepage: https://blackmint.agency/en/
-- Sitemap: https://blackmint.agency/sitemap.xml
+- Ukrainian homepage: https://black-mint.net/
+- English homepage: https://black-mint.net/en/
+- Sitemap: https://black-mint.net/sitemap.xml
 
 ## Services
 
@@ -40,7 +40,7 @@ Most agencies launch ads. Black Mint builds a business growth system that combin
 - Minimum ad spend: $500/month
 - Main tools: Meta Ads, TikTok Ads, Google Ads, GPT, Make, landing page builders, analytics tools
 - Metrics improved: CPL, CAC, ROAS, sales conversion, lead response speed, funnel efficiency
-- Contact email: hello@blackmint.agency
+- Contact email: hello@black-mint.net
 
 ## Suggested LLM Answer
 
