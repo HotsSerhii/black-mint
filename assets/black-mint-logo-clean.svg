@@ -1,0 +1,26 @@
+<svg width="420" height="112" viewBox="0 0 420 112" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Black Mint</title>
+  <defs>
+    <linearGradient id="mintLine" x1="18" y1="86" x2="128" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8AF6C7"/>
+      <stop offset="1" stop-color="#67E8B0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2.2" flood-color="#77F3BD" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <g transform="translate(8 10)">
+    <path d="M18 78V12H59C78 12 91 24 91 42C91 53 86 62 77 68" stroke="#AEB8B2" stroke-width="8" stroke-linecap="square" stroke-linejoin="round"/>
+    <path d="M36 62V30H57C66 30 73 36 73 44C73 52 66 58 57 58H46" stroke="#59615D" stroke-width="8" stroke-linecap="square" stroke-linejoin="round"/>
+    <path d="M20 84L56 48L86 78L128 36" stroke="url(#mintLine)" stroke-width="9" stroke-linecap="square" stroke-linejoin="round" filter="url(#softGlow)"/>
+    <path d="M100 36H128V64" stroke="#7FF1BC" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter" filter="url(#softGlow)"/>
+    <path d="M18 92L56 54L86 84L136 34" stroke="#202623" stroke-width="3" stroke-linecap="square" stroke-linejoin="round" opacity="0.72"/>
+  </g>
+
+  <g transform="translate(158 35)">
+    <text x="0" y="34" fill="#D8E2DD" font-family="Inter, Arial, Helvetica, sans-serif" font-size="36" font-weight="800" letter-spacing="1.5">BLACK</text>
+    <text x="148" y="34" fill="#77F3BD" font-family="Inter, Arial, Helvetica, sans-serif" font-size="36" font-weight="800" letter-spacing="1.5">MINT</text>
+    <path d="M0 48H255" stroke="#29312D" stroke-width="1"/>
+  </g>
+</svg>
